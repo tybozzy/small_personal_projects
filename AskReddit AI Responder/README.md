@@ -21,4 +21,4 @@
     - And much more, just take a look!
 
 \
-*Note: This was created recreationally to practice using GUIs and webscraping. It is not intended to be released or distributed beyond means of archiving or professional development.*
+*Note: This was created recreationally for practice. It is not intended to be released or distributed beyond means of archiving or professional development.*
