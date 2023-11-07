@@ -19,5 +19,6 @@
     - Filtering for suitable Reddit posts could be so much better
     - Prepare ChatGPT prompt better than adding block of text before every inquiry.
     - And much more, just take a look!
+
 \
 *Note: This was created recreationally to practice using GUIs and webscraping. It is not intended to be released or distributed beyond means of archiving or professional development.*
