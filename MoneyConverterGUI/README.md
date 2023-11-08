@@ -1,16 +1,19 @@
 # Money Converter
 
-### An app with customtkinter GUI that webscrapes values from x-rates.com to provide accurate and up-to-date money coversion information.
+### An app with customtkinter GUI that web scrapes values from x-rates.com to provide accurate and up-to-date money conversion information.
 
 ## Usage
-- Select currency to convert from on left-hand side drop-down.
+- Select the currency to convert from on the left-hand side drop-down.
 
-- Select currency to convert to on right-hand side
+- Select the currency to convert to on the right-hand side
 
-- Press "Convert" button to execute currency conversion
+- Press the "Convert" button to execute currency conversion
 
-- Currency conversion is displayed below button
+- Currency conversion is displayed below the button
 
+## Screenshots
+[Before Execution](/MoneyConverterGUI/screenshots/beforeentry.png)
+[After Execution](/MoneyConverterGUI/screenshots/afterentry.png)
 \
 \
-*Note: This was created recreationally to practice using GUIs and webscraping. It is not intended to be released or distributed beyond means of archiving or professional development.*
+*Note: This was created recreationally to practice using GUIs and web scraping. It is not intended to be released or distributed beyond means of archiving or professional development.*
