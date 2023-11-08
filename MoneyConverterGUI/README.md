@@ -14,7 +14,7 @@
 ## Screenshots
 #### Before Execution:
 ![Before Execution](/MoneyConverterGUI/screenshots/beforeentry.png?raw=True)
-\
+
 #### After Execution:
 ![After Execution](/MoneyConverterGUI/screenshots/afterentry.png?raw=True)
 \
