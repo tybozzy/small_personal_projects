@@ -12,8 +12,8 @@
 - Currency conversion is displayed below the button
 
 ## Screenshots
-[Before Execution](/MoneyConverterGUI/screenshots/beforeentry.png)
-[After Execution](/MoneyConverterGUI/screenshots/afterentry.png)
+![Before Execution](/MoneyConverterGUI/screenshots/beforeentry.png?raw=True)
+![After Execution](/MoneyConverterGUI/screenshots/afterentry.png?raw=True)
 \
 \
 *Note: This was created recreationally to practice using GUIs and web scraping. It is not intended to be released or distributed beyond means of archiving or professional development.*
