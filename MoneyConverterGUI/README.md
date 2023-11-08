@@ -15,7 +15,7 @@
 1) Uses beautifulsoup to go to the x-rates.com URL of the selected currency values and monetary amount
     - The URL format of x-rates.com allows for this
 2) The conversion is automatically done from the URL entry
-3) Beautifulsoup scrapes and returns conversion amount
+3) Uses beautifulsoup to scrape and return conversion amount
 - The GUI was created with [customtkinter](https://customtkinter.tomschimansky.com/), a modern-looking UI library based on tkinter
 
 ## Screenshots
